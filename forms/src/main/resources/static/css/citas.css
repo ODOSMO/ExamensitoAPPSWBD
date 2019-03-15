@@ -1,0 +1,69 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    background: url('../images/fondo.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.divdatos{
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 5px solid steelblue;
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.input{
+    width: 100%;
+}
+input[type=submit]{
+    background-color: steelblue;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+}
+input[type=submit]:hover{
+    box-shadow: 4px 4px 10px black;
+}
+#select_date{
+    width: 34%;
+    /*visibility: collapse;*/
+    margin-left: 32%;
+    margin-right: 32%;
+}
+#main{
+    float: left;
+    width: 35%;
+}#main2{
+     float: right;
+     width: 60%;
+    padding-top: 1%;
+ }
+#botonC{
+    height: 80px;
+}
+#divdatos2{
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 5px solid steelblue;
+    width: 90%;
+    height: auto;
+    padding: 2%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 33%;
+
+}
